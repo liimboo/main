@@ -16,6 +16,7 @@ Temple (https://temple.cx/)
 Krnl (https://krnl.ca/)
 
 -Common Issues/Errors;
+"Where is the script?" In the discord server do ;twizzware
 "Aimbot/Main tab not showing up" this is usually a exploit issue
 "Aimbot not working" make sure you're clicking the bind you set to aimbot and you have the aimbot toggled on in the "main" tab. You can change it by executing getgenv().key = "v" after twizzware. The default aimbot bind is T.
 "Missing VCRUNTIME_140.dll" This is a exploit issue download both of these https://aka.ms/vs/17/release/vc_redist.x86.exe , https://aka.ms/vs/17/release/vc_redist.x64.exe
