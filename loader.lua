@@ -10,4 +10,7 @@ if gid == ids.cr then
     
 elseif gid == ids.eb then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/shroomsss/main/main/eastbrickton.lua"))()
+
+elseif gid == ids.crBackup then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/shroomsss/main/main/chicago.lua"))()
 end
